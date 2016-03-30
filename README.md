@@ -7,4 +7,4 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
 - Data Analysis II
 
 ## Installation
-1. Download and install [Anaconda Python 2.7]([https://www.continuum.io/downloads)
+1. Download and install [Anaconda Python 2.7](https://www.continuum.io/downloads)
