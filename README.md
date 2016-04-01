@@ -3,6 +3,13 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
 
 ## Jupyter Notebooks
 - Introduction to Python
+  - Installation
+  - Notebooks
+  - Variables
+  - Loops and Conditional Statements
+  - Functions
+  - Containers
+  - Modules
 - Data Analysis I
   - Data Checking
   - Data Plotting
