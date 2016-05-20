@@ -2,7 +2,7 @@
 This gihub repository provides lab materials that accompany Psyc63 Experimental Study of Behavior at Dartmouth College.  Labs will consist of working through [Jupyter Notebooks](http://jupyter.org/) that contain exercises in Python.
 
 ## Jupyter Notebooks
-- Introduction to Python
+### Introduction to Python
   - Installation
   - Notebooks
   - Variables
@@ -10,22 +10,22 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
   - Functions
   - Containers
   - Modules
-- Data Analysis I
+### Data Analysis I
   - Data Checking
   - Data Plotting
   - Linear Model Regression
   - Model Comparisons
-- Data Analysis II
+### Data Analysis II
   - Logistic Regression
   - Classification
   - Prediction
   - Cross-validation
   - Regularization Techniques 
     - Lasso & Ridge
-- Data Analysis III
+### Data Analysis III
   - Mediation Analysis
   - Moderation Analysis
-- Social Network Analysis
+### Social Network Analysis
   - Primer to Social Network Analysis
   - NetworkX 
   - Micromeasures
