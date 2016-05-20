@@ -10,11 +10,13 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
   - Functions
   - Containers
   - Modules
+  
 ### Data Analysis I
   - Data Checking
   - Data Plotting
   - Linear Model Regression
   - Model Comparisons
+
 ### Data Analysis II
   - Logistic Regression
   - Classification
@@ -22,9 +24,11 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
   - Cross-validation
   - Regularization Techniques 
     - Lasso & Ridge
+  
 ### Data Analysis III
   - Mediation Analysis
   - Moderation Analysis
+
 ### Social Network Analysis
   - Primer to Social Network Analysis
   - NetworkX 
