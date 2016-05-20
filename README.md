@@ -37,6 +37,6 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
   - Degree Distribution
   - Average shortest path
   - Clustering coefficients
-  -
+
 ## Installation
 1. Download and install [Anaconda Python 2.7](https://www.continuum.io/downloads)
