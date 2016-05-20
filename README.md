@@ -20,5 +20,23 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
   - Classification
   - Prediction
   - Cross-validation
+  - Regularization Techniques 
+    - Lasso & Ridge
+- Data Analysis III
+  - Mediation Analysis
+  - Moderation Analysis
+- Social Network Analysis
+  - Primer to Social Network Analysis
+  - NetworkX 
+  - Micromeasures
+  -   degree centrality
+  -   betweenness centrality
+  -   closeness centrality
+  -   Eigenvector centrality
+-   Macromeasures
+  - Degree Distribution
+  - Average shortest path
+  - Clustering coefficients
+  -
 ## Installation
 1. Download and install [Anaconda Python 2.7](https://www.continuum.io/downloads)
