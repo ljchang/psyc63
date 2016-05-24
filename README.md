@@ -1,8 +1,8 @@
 # psyc63
-This gihub repository provides lab materials that accompany Psyc63 Experimental Study of Behavior at Dartmouth College.  Labs will consist of working through [Jupyter Notebooks](http://jupyter.org/) that contain exercises in Python.
+This gihub repository provides lab materials that accompany Psyc63 Experimental Study of Behavior at Dartmouth College.  Labs will consist of working through [Jupyter Notebooks](http://jupyter.org/) that contain exercises in Python. Jupyter Notebooks can be installed by downloading and installing [Anaconda Python 2.7](https://www.continuum.io/downloads). 
 
 ## Jupyter Notebooks
-- Introduction to Python
+### Introduction to Python
   - Installation
   - Notebooks
   - Variables
@@ -10,33 +10,36 @@ This gihub repository provides lab materials that accompany Psyc63 Experimental 
   - Functions
   - Containers
   - Modules
-- Data Analysis I
+  
+### Data Analysis I
   - Data Checking
   - Data Plotting
   - Linear Model Regression
   - Model Comparisons
-- Data Analysis II
+
+### Data Analysis II
   - Logistic Regression
   - Classification
   - Prediction
   - Cross-validation
   - Regularization Techniques 
     - Lasso & Ridge
-- Data Analysis III
+  
+### Data Analysis III
   - Mediation Analysis
   - Moderation Analysis
-- Social Network Analysis
+
+### Social Network Analysis
   - Primer to Social Network Analysis
   - NetworkX 
   - Micromeasures
-  -   degree centrality
-  -   betweenness centrality
-  -   closeness centrality
-  -   Eigenvector centrality
--   Macromeasures
-  - Degree Distribution
-  - Average shortest path
-  - Clustering coefficients
+    - degree centrality
+    - betweenness centrality
+    - closeness centrality
+    - Eigenvector centrality
+  -   Macromeasures
+    - Degree Distribution
+    - Average shortest path
+    - Clustering coefficients
 
-## Installation
-1. Download and install [Anaconda Python 2.7](https://www.continuum.io/downloads)
+
